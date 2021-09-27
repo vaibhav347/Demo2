@@ -1,0 +1,14 @@
+C:\Users\vaibh\Desktop\Labz\bin\Debug\netcoreapp3.1\Labz.exe
+C:\Users\vaibh\Desktop\Labz\bin\Debug\netcoreapp3.1\Labz.deps.json
+C:\Users\vaibh\Desktop\Labz\bin\Debug\netcoreapp3.1\Labz.runtimeconfig.json
+C:\Users\vaibh\Desktop\Labz\bin\Debug\netcoreapp3.1\Labz.runtimeconfig.dev.json
+C:\Users\vaibh\Desktop\Labz\bin\Debug\netcoreapp3.1\Labz.dll
+C:\Users\vaibh\Desktop\Labz\bin\Debug\netcoreapp3.1\Labz.pdb
+C:\Users\vaibh\Desktop\Labz\obj\Debug\netcoreapp3.1\Labz.csproj.AssemblyReference.cache
+C:\Users\vaibh\Desktop\Labz\obj\Debug\netcoreapp3.1\Labz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\Labz\obj\Debug\netcoreapp3.1\Labz.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\Labz\obj\Debug\netcoreapp3.1\Labz.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\Labz\obj\Debug\netcoreapp3.1\Labz.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\Labz\obj\Debug\netcoreapp3.1\Labz.dll
+C:\Users\vaibh\Desktop\Labz\obj\Debug\netcoreapp3.1\Labz.pdb
+C:\Users\vaibh\Desktop\Labz\obj\Debug\netcoreapp3.1\Labz.genruntimeconfig.cache
